@@ -34,6 +34,7 @@ input {
 .page-header h1 {
   margin: 8px 0;
   font-size: 32px;
+  color: #20283a;
 }
 
 .subtitle {
@@ -55,6 +56,7 @@ input {
 .list-card h2 {
   margin-top: 0;
   font-size: 20px;
+  color: #20283a;
 }
 
 .form-group {
@@ -67,6 +69,7 @@ input {
 .form-group label {
   font-size: 14px;
   font-weight: 600;
+  color: #20283a;
 }
 
 .form-group input {
@@ -75,6 +78,8 @@ input {
   border: 1px solid #dce1eb;
   border-radius: 8px;
   outline: none;
+  background: white;
+  color: #20283a;
 }
 
 .form-group input:focus {
